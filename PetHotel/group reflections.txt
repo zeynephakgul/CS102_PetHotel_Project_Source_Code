@@ -1,0 +1,29 @@
+Group g1G
+
+List of Group Members:
+Zeynep Hanife Akgül 22003356
+Cahit Çağın Karataş 21802634
+Alper Biçer 22003097
+İlayda Zehra Yılmaz 22001769
+
+Group Reflections: 
+Through this project we got a chance to improve our collaborative working skills. 
+We practiced CS102 course subjects.
+We learned to work in a limited time and still manage to complete vital parts.
+We learned to work at several different occasions, such as studying for the lecture 
+itself and working on the project at the same time. Both occasions took a lot of time, 
+so we learned to manage our time, and leave enough time for both responsibilities.
+We learned to implement and modify different parts of a code and make it work.
+The limited time had a negative effect on our project work so that was something we all disliked.
+During the implementation of the project, we slightly had to change what was planned in the first 
+version of the detailed design report since we realized extra needed methods or unnecessary parts 
+that needed to be removed.
+We should not have trusted solely on the database: We could have added a user and other classes to 
+store data.
+We spent at least three hours for each report at the beginning of the semester and every week we put 
+more time into project stages. Especially in the last few weeks we spent most of our daily time making 
+the project.
+We have all completed all classes that we are responsible with.
+We learned and practised many topics such as MVC design pattern, mail sending, and other swing classes.
+Overall, having more time to implement the code could result in better solutions but we are still 
+satisfied with what we have done in such busy and limited days.
